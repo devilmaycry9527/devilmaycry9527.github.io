@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /favicon.ico
 
-sitemap: https://devilmaycry9527.github.io/
+Sitemap: https://devilmaycry9527.github.io/sitemap.xml
